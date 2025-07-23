@@ -33,5 +33,16 @@ Install dependencies:
 pip install torch torchvision scikit-learn
 ```
 
+## Results
+
+| Metric         | Value    |
+|----------------|----------|
+| Train Accuracy | 97.09%    |
+| Val Accuracy   | 96.76%    |
+| Test Accuracy  | 96.87%    |
+| Train Loss     | 0.087    |
+| Val Loss       | 0.108    |
+| Test Loss      | 0.093    |
+
 ### If you need the trained model weights (brain_tumor_model.pt), feel free to email me at:
 📧 k.prabhav2005@gmail.com
